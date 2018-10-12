@@ -1,2 +1,2 @@
 # HelloProject
-This is for tutoril Purpose
+This is for tutorial Purpose
